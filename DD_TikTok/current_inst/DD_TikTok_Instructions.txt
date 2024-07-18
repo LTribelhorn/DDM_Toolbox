@@ -1,0 +1,93 @@
+<!--Page 1-->
+<div class="container">
+	<div class="row">
+		<div class="col-12 col-lg-6">
+			<div class="p-3">
+				<ol>
+					<li>Öffnen Sie Ihre TikTok-App.</li>
+					<li>Klicken Sie unten rechts auf "Profil" um zu Ihrem Profil zu gehen.</li>
+					<li>Öffnen Sie das Menu oben rechts.</li>
+					<li>Klicken Sie auf "Einstellungen und Datenschutz".</li>
+					<li>Klicken Sie dann auf Konto (siehe Screenshot).</li>
+				</ol>
+			</div>
+		</div>
+		<div class="col-12 col-lg-6">
+			<div class="p-3"><img alt="" src="https://raw.githubusercontent.com/LTribelhorn/DDM_Toolbox/main/DD_TikTok/current_inst/DD_TikTok_1.jpg" style="width:100%" /></div>
+		</div>
+	</div>
+</div>
+
+<!--Page 2-->
+<div class="container">
+	<div class="row">
+		<div class="col-12 col-lg-6">
+			<div class="p-3">
+				<p>Klicken Sie dann auf "Deine Daten herunterladen".</p>
+			</div>
+		</div>
+		<div class="col-12 col-lg-6">
+			<div class="p-3"><img alt="" src="https://raw.githubusercontent.com/LTribelhorn/DDM_Toolbox/main/DD_TikTok/current_inst/DD_TikTok_2.jpg" style="width:100%" /></div>
+		</div>
+	</div>
+</div>
+
+<!--Page 3-->
+<div class="container">
+	<div class="row">
+		<div class="col-12 col-lg-6">
+			<div class="p-3">
+				<p>Damit wir die Daten korrekt verarbeiten können, müssen Sie nun das passende Dateiformat auswählen.<br />
+				Klicken Sie dazu hier auf "Wähle das Dateiformat aus".</p>
+			</div>
+		</div>
+		<div class="col-12 col-lg-6">
+			<div class="p-3"><img alt="" src="https://raw.githubusercontent.com/LTribelhorn/DDM_Toolbox/main/DD_TikTok/current_inst/DD_TikTok_3.jpg" style="width:100%" /></div>
+		</div>
+	</div>
+</div>
+
+<!--Page 4-->
+<div class="container">
+	<div class="row">
+		<div class="col-12 col-lg-6">
+			<div class="p-3">
+				<p>Wählen Sie nun das Dateiformat "JSON" aus (1) und klicken Sie anschliessend auf "Fertig" (2).</p>
+			</div>
+		</div>
+		<div class="col-12 col-lg-6">
+			<div class="p-3"><img alt="" src="https://raw.githubusercontent.com/LTribelhorn/DDM_Toolbox/main/DD_TikTok/current_inst/DD_TikTok_4.jpg" style="width:100%" /></div>
+		</div>
+	</div>
+</div>
+
+<!--Page 5-->
+<div class="container">
+	<div class="row">
+		<div class="col-12 col-lg-6">
+			<div class="p-3">
+				<p>Nun klicken Sie auf "Daten anfordern" um den Export zu starten.</p>
+			</div>
+		</div>
+		<div class="col-12 col-lg-6">
+			<div class="p-3"><img alt="" src="https://raw.githubusercontent.com/LTribelhorn/DDM_Toolbox/main/DD_TikTok/current_inst/DD_TikTok_5.jpg" style="width:100%" /></div>
+		</div>
+	</div>
+</div>
+
+<!--Page 6-->
+<div class="container">
+	<div class="row">
+		<div class="col-12 col-lg-6">
+			<div class="p-3">
+				<p>TikTok bereitet nun im Hintergrund Ihre Daten zum Download vor. Möglicherweise dauert dies einen kurzen Moment.<br />
+				Sobald die Daten bereitstehen, können Sie die ZIP-Datei auf Ihr Gerät herunterladen.</p>
+				<p>&nbsp;<br />
+				Anschliessend können Sie die heruntergeladene ZIP-Datei unten über "Datei auswählen" hochladen.</p>
+			</div>
+		</div>
+		<div class="col-12 col-lg-6">
+			<div class="p-3"><img alt="" src="https://raw.githubusercontent.com/LTribelhorn/DDM_Toolbox/main/DD_TikTok/current_inst/DD_TikTok_6.jpg" style="width:100%" /></div>
+		</div>
+	</div>
+</div>
